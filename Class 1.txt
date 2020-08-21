@@ -1,0 +1,18 @@
+
+		Monday			Tuesday				Wednesday				Thurshday				Friday				Saturday
+
+Period 1	English			English				English					English					English				English
+
+Period 2	English			English				English					English					English				English
+
+Period 3	English			English				English					English					English				English
+
+Period 4	English			English				English					English					English				English
+
+Period 5	English			English				English					English					English				English
+
+Period 6	English			English				English					English					English				English
+
+Period 7	English			English				English					English					English				English
+
+Period 8	English			English				English					English					English				English
